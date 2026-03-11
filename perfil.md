@@ -8,3 +8,9 @@ Curso: ADS
 
 ##Objetivo
 Aprender programação e desenvolvimento de software.
+
+## Hobbies
+
+-Luto
+-Faço academia
+-Aposto todo dia 
