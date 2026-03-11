@@ -15,3 +15,8 @@ Aprender programação e desenvolvimento de software.
 -Luto
 -Faço academia
 -Aposto todo dia 
+
+#tecnologias 
+- HTML
+- CSS
+- Git
