@@ -8,3 +8,5 @@ Curso: ADS
 
 ##Objetivo
 Aprender programação e desenvolvimento de software.
+
+## tambem gosto de ir jantar com a muie
